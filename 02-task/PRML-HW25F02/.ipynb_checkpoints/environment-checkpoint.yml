@@ -1,0 +1,8 @@
+name: PRML-HW25F02
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - jupytext
